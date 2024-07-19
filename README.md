@@ -11,7 +11,7 @@
 #### 后端
 ##### Java Spring Boot 框架
 ##### MySQL 数据库
-##### MyBatis-Plus 及 MyBatis X 自动生成
+##### MyBatis-Plus  MyBatis X 
 ##### API 签名认证（Http 调用）
 ##### Spring Boot Starter（SDK 开发）
 ##### Dubbo 分布式（RPC、Nacos）
